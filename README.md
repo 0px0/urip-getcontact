@@ -35,6 +35,6 @@ GETCONTACT_TOKEN: TOKEN
 ```
 
 ### Video Tutorial
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=sFuAMxQLVdg" target="_blank">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sFuAMxQLVdgx" target="_blank">
  <img src="http://img.youtube.com/vi/sFuAMxQLVdg/mqdefault.jpg" alt="Watch the video" width="320" height="180" border="10" />
 </a>
